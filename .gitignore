@@ -45,3 +45,24 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.cci
+*.hci
+*.c~
+*.cbi
+*.cof
+*.cproj
+*.fct
+*.prj~
+*.rom
+*.a
+*.o
+*.al
+*.ol
+*.asm
+*.lst
+*.str1
+*.sym1
+*.sym2
+*.sym3
+*.obj
+*.map
